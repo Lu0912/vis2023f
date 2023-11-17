@@ -1,6 +1,6 @@
 # HW2 Medium baseline (4pt)
 
-https://observablehq.com/d/ea10a430bc2950ac@51
+https://observablehq.com/d/d4f9a204cf2934a7@17
 
 View this notebook in your browser by running a web server in this folder. For
 example:
@@ -14,14 +14,14 @@ import this module directly into your application. To npm install:
 
 ~~~sh
 npm install @observablehq/runtime@5
-npm install https://api.observablehq.com/d/ea10a430bc2950ac@51.tgz?v=3
+npm install https://api.observablehq.com/d/d4f9a204cf2934a7@17.tgz?v=3
 ~~~
 
 Then, import your notebook and the runtime as:
 
 ~~~js
 import {Runtime, Inspector} from "@observablehq/runtime";
-import define from "ea10a430bc2950ac";
+import define from "d4f9a204cf2934a7";
 ~~~
 
 To log the value of the cell named “foo”:
