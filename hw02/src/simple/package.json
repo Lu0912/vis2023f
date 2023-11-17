@@ -1,11 +1,11 @@
 {
-  "name": "ce913880495a6f30",
-  "main": "ce913880495a6f30@78.js",
-  "version": "78.0.0",
-  "homepage": "https://observablehq.com/d/ce913880495a6f30",
+  "name": "3066bb7ac822747d",
+  "main": "3066bb7ac822747d@27.js",
+  "version": "27.0.0",
+  "homepage": "https://observablehq.com/d/3066bb7ac822747d",
   "author": {
-    "name": "資料可視化",
-    "url": "https://observablehq.com/@vis2023f-joyce"
+    "name": "Lu0912's Workspace",
+    "url": "https://observablehq.com/@lu0912-ws"
   },
   "type": "module",
   "peerDependencies": {
