@@ -1,0 +1,14 @@
+{
+  "name": "ed426ea27b568c85",
+  "main": "ed426ea27b568c85@44.js",
+  "version": "44.0.0",
+  "homepage": "https://observablehq.com/d/ed426ea27b568c85",
+  "author": {
+    "name": "Lu0912's Workspace",
+    "url": "https://observablehq.com/@lu0912-ws"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
