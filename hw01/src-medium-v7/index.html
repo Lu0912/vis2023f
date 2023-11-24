@@ -152,7 +152,7 @@
     .attr("width", (d, i) => (i + 1) * 60)
     .attr("height", (d, i) => (i + 1) * 60);
 
-    d3.text("../data.csv")
+    d3.text("../data1.csv")
     .then((data) => {   //d3.text()返回的是 Promise，使用 .then()處理回傳的資料。
         const parsedCSV = d3.csvParseRows(data);   //另外，選擇器的使用也有些微差異。
 
