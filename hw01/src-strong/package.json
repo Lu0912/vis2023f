@@ -1,0 +1,14 @@
+{
+  "name": "5c375b43f8a6c639",
+  "main": "5c375b43f8a6c639@313.js",
+  "version": "313.0.0",
+  "homepage": "https://observablehq.com/d/5c375b43f8a6c639",
+  "author": {
+    "name": "吳泳霈's Workspace",
+    "url": "https://observablehq.com/@yung2-ws"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
