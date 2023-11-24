@@ -1,11 +1,11 @@
 {
-  "name": "3b039b075022c35e",
-  "main": "3b039b075022c35e@208.js",
-  "version": "208.0.0",
-  "homepage": "https://observablehq.com/d/3b039b075022c35e",
+  "name": "86dbfdc9e8db02f2",
+  "main": "86dbfdc9e8db02f2@64.js",
+  "version": "64.0.0",
+  "homepage": "https://observablehq.com/d/86dbfdc9e8db02f2",
   "author": {
-    "name": "曾詠暄's Workspace",
-    "url": "https://observablehq.com/@ceng-yong-xuan-ws"
+    "name": "Lu0912's Workspace",
+    "url": "https://observablehq.com/@lu0912-ws"
   },
   "type": "module",
   "peerDependencies": {
