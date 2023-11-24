@@ -7,8 +7,8 @@
   <script src="../d3.v7.min.js"></script>
   <style>
     @font-face {
-        font-family:'CircleFont'; /* src: url(https://circle472.github.io/ct2022s/hw04/CircleFont.ttf);  https://github.com/circle472/ct2022s/ */
-        src: url(CircleFont_v2.woff2); /* https://cloudconvert.com/ttf-to-woff2 */
+        font-family:'CircleFont'; 
+        src: url(CircleFont_v2.woff2);
     }
     body {
         background-color: rgba(255, 128, 255, 0.1);
@@ -153,8 +153,8 @@
     .attr("height", (d, i) => (i + 1) * 60);
 
     d3.text("../data1.csv")
-    .then((data) => {   //d3.text()返回的是 Promise，使用 .then()處理回傳的資料。
-        const parsedCSV = d3.csvParseRows(data);   //另外，選擇器的使用也有些微差異。
+    .then((data) => {   
+        const parsedCSV = d3.csvParseRows(data);   
 
         const container2 = d3.select("#div2")
         .append("table")
