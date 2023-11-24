@@ -1,0 +1,14 @@
+{
+  "name": "3bc9b3cd4485126a",
+  "main": "3bc9b3cd4485126a@105.js",
+  "version": "105.0.0",
+  "homepage": "https://observablehq.com/d/3bc9b3cd4485126a",
+  "author": {
+    "name": "Lu0912's Workspace",
+    "url": "https://observablehq.com/@lu0912-ws"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
