@@ -1,0 +1,14 @@
+{
+  "name": "2fe200a32e7a3982",
+  "main": "2fe200a32e7a3982@18.js",
+  "version": "18.0.0",
+  "homepage": "https://observablehq.com/d/2fe200a32e7a3982",
+  "author": {
+    "name": "Lu0912's Workspace",
+    "url": "https://observablehq.com/@lu0912-ws"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
