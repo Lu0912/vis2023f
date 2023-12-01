@@ -1,0 +1,14 @@
+{
+  "name": "1150ed12535fcdf3",
+  "main": "1150ed12535fcdf3@23.js",
+  "version": "23.0.0",
+  "homepage": "https://observablehq.com/d/1150ed12535fcdf3",
+  "author": {
+    "name": "Lu0912's Workspace",
+    "url": "https://observablehq.com/@lu0912-ws"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
